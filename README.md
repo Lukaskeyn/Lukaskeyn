@@ -1,4 +1,4 @@
-![Header](https://github.com/Lukaskeyn/Lukaskeyn/blob/main/assets/logo2.png)
+![Header](https://github.com/Lukaskeyn/Lukaskeyn/blob/main/assets/ibanez.png)
 
 ## About me
 
