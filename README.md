@@ -2,7 +2,7 @@
 
 # I'm beginner QA-engineer.
 
-# Language and Tools:
+## Language and Tools:
 ![Java](https://img.shields.io/badge/Java-orange)
 ![Postman](https://img.shields.io/badge/Postman-orange)
 ![MySql](https://img.shields.io/badge/MySql-aqua)
