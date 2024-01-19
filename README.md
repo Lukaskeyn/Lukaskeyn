@@ -1,6 +1,6 @@
-#About me
+## About me
 
-![cat](https://github.com/Lukaskeyn/Lukaskeyn/blob/main/assets/logo2.png)
+![logo](https://github.com/Lukaskeyn/Lukaskeyn/blob/main/assets/logo2.png)
 
 Language and Tools
 
