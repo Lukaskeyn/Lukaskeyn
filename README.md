@@ -1,6 +1,6 @@
 ![Header](https://github.com/Lukaskeyn/Lukaskeyn/blob/main/assets/LogoSample_ByTailorBrands.jpg)
 
-# I'm beginner QA-engineer.
+# I'm beginner QA-engineer and beginner Android-developer.
 
 ## Language and Tools:
 ![Java](https://img.shields.io/badge/Java-orange)
