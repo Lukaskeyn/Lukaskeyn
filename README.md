@@ -8,4 +8,6 @@
 ![AndroidStudio](https://img.shields.io/badge/AndroidStudio-green)
 ![Charles](https://img.shields.io/badge/Charles-blue)
 ![DevTools](https://img.shields.io/badge/DevTools-mint)
+![Jmeter](https://img.shields.io/badge/Jmeter-orange)
+![Postgres](https://img.shields.io/badge/Postgres-blue)
 ### Follow me 
